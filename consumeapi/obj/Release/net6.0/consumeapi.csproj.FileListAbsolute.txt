@@ -1,0 +1,7 @@
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-3A\consumeapi\obj\Release\net6.0\consumeapi.csproj.AssemblyReference.cache
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-3A\consumeapi\obj\Release\net6.0\consumeapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-3A\consumeapi\obj\Release\net6.0\consumeapi.AssemblyInfoInputs.cache
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-3A\consumeapi\obj\Release\net6.0\consumeapi.AssemblyInfo.cs
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-3A\consumeapi\obj\Release\net6.0\consumeapi.csproj.CoreCompileInputs.cache
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-3A\consumeapi\obj\Release\net6.0\consumeapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-3A\consumeapi\obj\Release\net6.0\consumeapi.MvcApplicationPartsAssemblyInfo.cache

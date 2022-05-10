@@ -9,8 +9,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<Registry>(opt =>
-                                   opt.UseInMemoryDatabase("RegistryTable"));
+// .NET 6 issue
+// builder.Services.AddDbContext<Registry>(opt =>
+//                                    opt.UseInMemoryDatabase("RegistryTable"));
 
 var app = builder.Build();
 
